@@ -1,0 +1,5 @@
+Difference between SQL and MYSQL:
+
+	SQL: SQL is a query programming language used for managing RDBMS(relational database management system).
+	MYSQL : MYSQL is an RDBMS that uses SQL.
+		so the major difference between SQL and MYSQL, MYSQL is a software and SQL is a query programmind language that is used in MYSQL 		software.
